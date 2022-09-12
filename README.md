@@ -5,4 +5,6 @@ Estoy aprendiendo **Github**
 _Mola mazo!_
 
 
-![ITC Cuatrovientos](./images.)
+![ITC Cuatrovientos](./images.jfif)
+
+[Visítanos!](http://www.cuatrovientos.org)
